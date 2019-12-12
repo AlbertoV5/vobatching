@@ -1,0 +1,70 @@
+#,TRUE,Tone,Description,File Name,Take,,,,,,,Notes
+,,Idle,,,,,,,,,,
+1,FALSE,Normal,Idle Bok (chatting to yourself),VO_CHICKEN_Idle,A,B,C,D,E,F,G,
+2,FALSE,Normal,Regular single short Boks,VO_CHICKEN_Reg,A,B,C,D,E,F,G,
+3,FALSE,Talkative,Talking to people with Boks carrying on a conversation,VO_CHICKEN_Talk,A,B,C,D,E,F,G,Probably not needed
+4,FALSE,Normal,Long prolonged bok,VO_CHICKEN_Long,A,B,C,D,E,F,G,
+5,FALSE,Cheerful,Boking to a tune,VO_CHICKEN_Tune,A,B,C,D,E,F,G,Probably not needed
+6,FALSE,Normal,Idle Bok with object in your mouth,VO_CHICKEN_Idle_Hold,A,B,C,D,E,F,G,
+7,FALSE,Bored,Walking/standing around bored with nothing to do,VO_CHICKEN_Bored,A,B,C,D,E,F,G,
+,,Happy,,,,,,,,,,
+8,FALSE,Pleased,Pleased with the outcome of your actions,VO_CHICKEN_Pleased,A,B,C,D,E,F,G,Probably not needed
+9,FALSE,Happy,Happy walking in the village,VO_CHICKEN_Happy,A,B,C,D,E,F,G,Probably not needed
+10,FALSE,Cheerful,Laughing Bok at seeing something funny,VO_CHICKEN_Laugh,A,B,C,D,E,F,G,Probably not needed
+11,FALSE,Confident,Prepared to handle the current situation,VO_CHICKEN_Confident,A,B,C,D,E,F,G,Probably not needed
+12,FALSE,Happy,Happy Bok with object in your mouth,VO_CHICKEN_Happy_Hold,A,B,C,D,E,F,G,
+13,FALSE,Snicker,Successfully stole an object,VO_CHICKEN_Snicker,A,B,C,D,E,F,G,Probably not needed
+,,Fear,,,,,,,,,,
+14,FALSE,Struggling,Struggling to escape from someone who caught you,VO_CHICKEN_Struggling,A,B,C,D,E,F,G,
+15,FALSE,Frantic,Frantically running around after causing chaos ,VO_CHICKEN_Frantic,A,B,C,D,E,F,G,
+16,FALSE,Frantic,Fleeing from someone chasing you,VO_CHICKEN_Fleeing,A,B,C,D,E,F,G,
+17,FALSE,Frantic,You are being captured by someone,VO_CHICKEN_Capture,A,B,C,D,E,F,G,
+18,FALSE,Startled,Something catches you off-guard and makes you jump,VO_CHICKEN_Startled,A,B,C,D,E,F,G,Probably not needed
+19,FALSE,Sad,Failed to achieve an objective,VO_CHICKEN_Sad,A,B,C,D,E,F,G,Probably not needed
+20,FALSE,Frantic,Frantic Bok with object in your mouth,VO_CHICKEN_Fear_Hold,A,B,C,D,E,F,G,
+,,Action,,,,,,,,,,
+21,FALSE,Powerful,Transform into COCKATRICE from CHICKEN,VO_CHICKEN_Transform,A,B,C,D,E,F,G,
+22,FALSE,Proud,Landing after gliding to the ground,VO_CHICKEN_Land_LI,A,B,C,D,E,F,G,
+23,FALSE,Hurt,Land on the ground after falling a large distance,VO_CHICKEN_Land_HI,A,B,C,D,E,F,G,
+24,FALSE,Exhaustive,Flapping your wings in the air,VO_CHICKEN_Flap,A,B,C,D,E,F,G,
+25,FALSE,Pushing,Struggling to stay afloat in the air (like Yoshi),VO_CHICKEN_Float,A,B,C,D,E,F,G,
+26,FALSE,,Death (low intensity),VO_CHICKEN_Death_LI,A,B,C,D,E,F,G,
+27,FALSE,,Death (high intensity),VO_CHICKEN_Death_HI,A,B,C,D,E,F,G,
+28,FALSE,,Receive Light Hit (hit with a pebble),VO_CHICKEN_LH,A,B,C,D,E,F,G,
+29,FALSE,,Receive Medium Hit,VO_CHICKEN_MH,A,B,C,D,E,F,G,
+30,FALSE,,Receive Heavy Hit,VO_CHICKEN_HH,A,B,C,D,E,F,G,
+31,FALSE,,Eat Small Object,VO_CHICKEN_Eat_S,A,B,C,D,E,F,G,
+32,FALSE,,Eat Large Object,VO_CHICKEN_Eat_L,A,B,C,D,E,F,G,
+33,FALSE,,Nibble on Object,VO_CHICKEN_Nibble,A,B,C,D,E,F,G,
+34,FALSE,,Chew on Object,VO_CHICKEN_Chew,A,B,C,D,E,F,G,
+35,FALSE,,Try to eat an object you can not eat,VO_CHICKEN_Eat_Fail,A,B,C,D,E,F,G,
+36,FALSE,,Spit up and object,VO_CHICKEN_Spit,A,B,C,D,E,F,G,
+37,FALSE,,Bok during light activity,VO_CHICKEN_Breath_L,A,B,C,D,E,F,G,
+38,FALSE,,Bok during heavy activity,VO_CHICKEN_Breaht_H,A,B,C,D,E,F,G,
+39,FALSE,Exhausted,Tired Bok after lots of exercise,VO_CHICKEN_Tired,A,B,C,D,E,F,G,
+40,FALSE,Forceful,Jump effort sound,VO_CHICKEN_Jump,A,B,C,D,E,F,G,
+41,FALSE,,Grab an object with beak,VO_CHICKEN_Grab,A,B,C,D,E,F,G,
+42,FALSE,,Failed to grab an object with beak (too large),VO_CHICKEN_Grab_Fail,A,B,C,D,E,F,G,
+43,FALSE,Releived,Drop object from beak,VO_CHICKEN_Drop,A,B,C,D,E,F,G,
+44,FALSE,,Throw an object (light object),VO_CHICKEN_Throw_L,A,B,C,D,E,F,G,
+45,FALSE,Forceful,Throw an object (heavy object),VO_CHICKEN_Throw_H,A,B,C,D,E,F,G,
+46,FALSE,In-pain,Hobbling away after being hurt,VO_CHICKEN_Hurt,A,B,C,D,E,F,G,
+47,FALSE,,Thrown through the air from catapult (R2D2 style),VO_CHICKEN_Thrown,A,B,C,D,E,F,G,
+48,FALSE,Forceful,Attacking with an object in your mouth,VO_CHICKEN_Action_Hold,A,B,C,D,E,F,G,
+,,Puzzled,,,,,,,,,,
+49,FALSE,Curious,Looking at an object and wondering how to interact with it,VO_CHICKEN_Curious,A,B,C,D,E,F,G,Probably not needed
+50,FALSE,Suprised,Unexpected result from interating with an object,VO_CHICKEN_Surprised,A,B,C,D,E,F,G,Probably not needed
+51,FALSE,Suspicious,Seeing an object that looks out of place,VO_CHICKEN_Suspicious,A,B,C,D,E,F,G,Probably not needed
+52,FALSE,Confused,An object does not interact in the way you expected,VO_CHICKEN_Confused,A,B,C,D,E,F,G,Probably not needed
+53,FALSE,Frusterated,An object is not interacting after repeated attempts,VO_CHICKEN_Frusterated,A,B,C,D,E,F,G,Probably not needed
+54,FALSE,,"""Oops-a-daisy"" - Happy mistake",VO_CHICKEN_Mistake,A,B,C,D,E,F,G,Probably not needed
+55,FALSE,Shocked,Seeing something that you did not expect to see,VO_CHICKEN_Shocked,A,B,C,D,E,F,G,Probably not needed
+56,FALSE,Confused,Confused Bok with an object in your mouth,VO_CHICKEN_Puzzled_Hold,A,B,C,D,E,F,G,
+,,Aggressive,,,,,,,,,,
+57,FALSE,Angry,Angrily Boking at someone,VO_CHICKEN_Angry,A,B,C,D,E,F,G,
+58,FALSE,Determined,Detemined to get back at someone,VO_CHICKEN_Determined,A,B,C,D,E,F,G,
+59,FALSE,Loud,Bok to gain the attention of those around you,VO_CHICKEN_Loud,A,B,C,D,E,F,G,
+60,FALSE,Defensive,Boking at someone to stay away,VO_CHICKEN_Defensive,A,B,C,D,E,F,G,
+61,FALSE,Aggresive,Attacking someone with your beak,VO_CHICKEN_Attack,A,B,C,D,E,F,G,
+62,FALSE,Angry,Angry Bok with object in your mouth,VO_CHICKEN_Aggresive_Hold,A,B,C,D,E,F,G,
+63,FALSE,Determined,Chasing after a villager,VO_CHICKEN_Chase,A,B,C,D,E,F,G,
